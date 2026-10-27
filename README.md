@@ -6,7 +6,8 @@ algorithms. Based in Munich.
 > [!NOTE]
 > **The source code of my projects is private.** Each repository below is a showcase: what the
 > project does, screenshots, and every source file with its types and function signatures, but none
-> of the code inside them. If you'd like a demo or to talk about a project, open an issue on it.
+> of the code inside them. For a demo or access to the source code, email me at
+> [christodontchev@gmail.com](mailto:christodontchev@gmail.com).
 
 ### iOS and Mac apps
 
