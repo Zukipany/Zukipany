@@ -8,12 +8,6 @@ algorithms. Based in Munich.
 > project does, screenshots, and every source file with its types and function signatures, but none
 > of the code inside them. If you'd like a demo or to talk about a project, open an issue on it.
 
-<p>
-  <a href="https://github.com/Zukipany/iDrive"><img src="https://raw.githubusercontent.com/Zukipany/iDrive/main/docs/screenshots/map.png" height="260" alt="iDrive: fuel and charging prices on the map"></a>
-  <a href="https://github.com/Zukipany/NoBet"><img src="https://raw.githubusercontent.com/Zukipany/NoBet/main/docs/screenshots/home.jpg" height="260" alt="NoBet: streak and money saved"></a>
-  <a href="https://github.com/Zukipany/traday"><img src="https://raw.githubusercontent.com/Zukipany/traday/main/docs/img/dashboard.jpg" height="260" alt="traday: the trading dashboard"></a>
-</p>
-
 ### iOS and Mac apps
 
 | Project | What it is | Built with |
