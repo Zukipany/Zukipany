@@ -4,15 +4,17 @@ I build iOS and Mac apps in SwiftUI, simulations in Python, and interactive visu
 algorithms. Based in Munich.
 
 > [!NOTE]
-> **The source code of my projects is private.** Each repository below is a showcase: what the
-> project does, screenshots, and every source file with its types and function signatures, but none
-> of the code inside them. For a demo or access to the source code, email me at
+> **The source code of most of my projects is private.** Each private project below has a public
+> showcase repository: what the project does, screenshots, and every source file with its types
+> and function signatures, but none of the code inside them. Beistand is open source. For a demo
+> or access to the source code, email me at
 > [christodontchev@gmail.com](mailto:christodontchev@gmail.com).
 
 ### iOS and Mac apps
 
 | Project | What it is | Built with |
 |---|---|---|
+| [**Beistand**](https://github.com/Zukipany/beistand) | One iPhone app that adapts to what each person finds hard: eyes for blind people, ears for deaf people, a patient helper for older people, with fall detection underneath (open source) | SwiftUI, watchOS, FastAPI |
 | [**iDrive**](https://github.com/Zukipany/iDrive) | Fuel prices in nine European countries, EV chargers, trip planning, spending and consumption for the car you drive | Swift 6, SwiftUI, SwiftData, Apple Intelligence |
 | [**DriveDesk**](https://github.com/Zukipany/drivedesk) | Fleet platform for small companies: a driver app on iPhone and a manager desk on Mac, on one backend | SwiftUI, Supabase, Stripe |
 | [**NoBet**](https://github.com/Zukipany/NoBet) | A calm, private iPhone companion for quitting gambling | SwiftUI |
