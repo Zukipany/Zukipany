@@ -18,6 +18,21 @@ algorithms. Based in Munich.
 | [**NoBet**](https://github.com/Zukipany/NoBet) | A calm, private iPhone companion for quitting gambling | SwiftUI |
 | [**traday**](https://github.com/Zukipany/traday) | A day-trading bot for the opening-range breakout, with a web dashboard, a Mac app and an iPhone app | Python, SwiftUI |
 
+### Hackathons
+
+<a href="https://github.com/f89pkdtkhw-lab/tum-ai-boq-assistant">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tumai-logo-light.png">
+    <img src="assets/tumai-logo-dark.png" alt="TUM.ai" height="28">
+  </picture>
+</a>
+
+**TUM.ai Construction Hackathon 2026 · Challenge A**
+
+| Project | What it is | Built with |
+|---|---|---|
+| [**LV Scout**](https://github.com/f89pkdtkhw-lab/tum-ai-boq-assistant) | AI review and pricing assistant for bills of quantities (LV): upload GAEB, Excel or PDF and get ranked errors, risks and Nachtrag potential, each with its item number and source, plus a price estimate with a range. Built in a team of five; I built the UI | Next.js, React, FastAPI, Claude |
+
 ### Simulations and models
 
 | Project | What it is | Built with |
